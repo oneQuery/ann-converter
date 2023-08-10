@@ -1,8 +1,8 @@
-- `formatter1.py`: 이상행동 CCTV 영상 -> PIA format
-- `formatter2.py`: 지하철 역사 내 CCTV 이상행동 영상 -> PIA format
-- `formatter3.py`: 시니어 이상행동 영상 -> PIA format
-- `formatter4.py`: 공원 주요시설 및 불법행위 감시 CCTV 영상 데이터 -> PIA format
-- `formatter5.py`: 주거 및 공용 공간 내 이상행동 영상 데이터 -> PIA format
-- `formatter6.py`: 멀티 영상 동일 상황 및 객체 식별 데이터 -> PIA format
-- `formatter7.py`: 실내(편의점, 매장) 사람 이상행동 데이터 -> PIA format
-- `formatter8.py`: 실내(편의점, 매장) 구매행동 데이터 -> PIA format
+- `converter1.py`: 이상행동 CCTV 영상 -> PIA format
+- `converter2.py`: 지하철 역사 내 CCTV 이상행동 영상 -> PIA format
+- `converter3.py`: 시니어 이상행동 영상 -> PIA format
+- `converter4.py`: 공원 주요시설 및 불법행위 감시 CCTV 영상 데이터 -> PIA format
+- `converter5.py`: 주거 및 공용 공간 내 이상행동 영상 데이터 -> PIA format
+- `converter6.py`: 멀티 영상 동일 상황 및 객체 식별 데이터 -> PIA format
+- `converter7.py`: 실내(편의점, 매장) 사람 이상행동 데이터 -> PIA format
+- `converter8.py`: 실내(편의점, 매장) 구매행동 데이터 -> PIA format
